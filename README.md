@@ -1,5 +1,5 @@
 # html
-html
+html structure
 HTML basics
 HTML is a markup language that defines the structure of your content. HTML consists of a series of elements
 element are as follows:
